@@ -53,7 +53,7 @@ class AuthService {
             <p>Verify your account:</p>
             <p>One Time Password ${otp}</p>
             <p>Please note that this link is temporary and will expire in 5mins. If you did not initiate an account creation with us, you can safely ignore this email.</p>
-            <p>If you have any questions or need further assistance, please contact our support team at uchesolomon61@gmail.com.</p>
+            <p>If you have any questions or need further assistance, please contact our support team at exprotech1@gmail.com</p>
             <p>Best regards,</p>
             <p>Kryptonite.</p>
             </div>
@@ -177,7 +177,7 @@ async login({ email, password }) {
         <p>Verify your account:</p>
         <p>One Time Password ${otp}</p>
         <p>Please note that this link is temporary and will expire in 5mins. If you did not initiate an account creation with us, you can safely ignore this email.</p>
-        <p>If you have any questions or need further assistance, please contact our support team at uchesolomon61@gmail.com.</p>
+        <p>If you have any questions or need further assistance, please contact our support team at exprotech1@gmail.com.</p>
         <p>Best regards,</p>
         <p>Kryptonite.</p>
         </div>
